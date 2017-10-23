@@ -7,8 +7,13 @@ The question I am proposing to answer is, ”How does version control facilitate
 References
 
 [1] Karthik Dinakar. Agile development: overcoming a short-term focus in implementing best practices. In Proceedings of the 24th ACM SIGPLAN conference companion on Object oriented programming systems languages and applications, pages 579–588. ACM, 2009.
+
 [2] Stephan Krusche, Mjellma Berisha, and Bernd Bruegge. Teaching code review management using branch based workﬂows. In Proceedings of the 38th International Conference on Software Engineering Companion, pages 384–393. ACM, 2016.
+
 [3] Hiroaki Mikami, Daisuke Sakamoto, and Takeo Igarashi. Micro-versioning tool to support experimentation in exploratory programming. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, pages 6208–6219. ACM, 2017.
+
 [4] Shaun Phillips, Jonathan Sillito, and Rob Walker. Branching and merging: an investigation into current version control practices. In Proceedings of the 4th International Workshop on Cooperative and Human Aspects of Software Engineering, pages 9–15. ACM, 2011.
+
 [5] Rayene Ben Rayana, Sylvain Killian, Nicolas Trangez, and Arnaud Calmettes. Gitwaterﬂow: a successful branching model and tooling, for achieving continuous delivery with multiple version branches. In Proceedings of the 4th International Workshop on Release Engineering, pages 17–20. ACM, 2016.
+
 [6] Jessica Rubart and Frank Freykamp. Supporting daily scrum meetings with change structure. In Proceedings of the 20th ACM conference on Hypertext and hypermedia, pages 57–62. ACM, 2009.
