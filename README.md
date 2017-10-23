@@ -5,6 +5,7 @@ The question I am proposing to answer is, ”How does version control facilitate
 
 
 References
+
 [1] Karthik Dinakar. Agile development: overcoming a short-term focus in implementing best practices. In Proceedings of the 24th ACM SIGPLAN conference companion on Object oriented programming systems languages and applications, pages 579–588. ACM, 2009.
 [2] Stephan Krusche, Mjellma Berisha, and Bernd Bruegge. Teaching code review management using branch based workﬂows. In Proceedings of the 38th International Conference on Software Engineering Companion, pages 384–393. ACM, 2016.
 [3] Hiroaki Mikami, Daisuke Sakamoto, and Takeo Igarashi. Micro-versioning tool to support experimentation in exploratory programming. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, pages 6208–6219. ACM, 2017.
